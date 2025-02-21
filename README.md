@@ -1,56 +1,67 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Alessio Valentinis
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> I'm **Alessio Valentinis**  
 
+## 🚀 About Me  
+🎓 **Bachelor’s Degree** in [Mathematics](https://corsi.units.it/en/sm30/course-description) @ [University of Trieste](https://portale.units.it/it)  
+📊 **Master’s Degree** in [Data Science and Artificial Intelligence](https://dsai.units.it/) @ [University of Trieste](https://portale.units.it/it)  
+💡 Passionate about **Machine Learning**, **Deep Learning**, and **Scientific Computing**  
 
-### Something about me
-- 📈 Bachelor Degree in [Mathematics](https://corsi.units.it/en/sm30/course-description) at the [University of Trieste](https://portale.units.it/it)
-- 💻 Currently studying the Master Degree in [Data Science and Artificial Intelligence](https://dsai.units.it/) at the [University of Trieste](https://portale.units.it/it)
+---
 
-### 📫 Connect with me
-<span align="center">
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="mailto:ale.vale1705@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="mailto:ALESSIO.VALENTINIS@studenti.units.it">
+    <img src="https://img.shields.io/badge/-🎓%20UniTS%20Email-51AFD5?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/alessio-valentinis/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:ale.vale1705@gmail.com)](mailto:ale.vale1705@gmail.com)&nbsp;
-[![University Email Badge](https://img.shields.io/badge/-🎓%20UniTS%20Email-51AFD5?style=flat-square&logoColor=white&link=mailto:ALESSIO.VALENTINIS@studenti.units.it)](mailto:ALESSIO.VALENTINIS@studenti.units.it)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessio-valentinis/)](https://www.linkedin.com/in/alessio-valentinis/)
+---
 
-</span>
+## 🛠 Tech Stack  
 
-### My tech stack
-##### 🧑🏻‍💻 Programming Languages
-<span align="center">
+### 💻 Programming Languages  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+</p>
 
-[![Static Badge](https://img.shields.io/badge/Python-python?logo=Python&logoColor=yellow&color=blue)](https://www.python.org/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/-r?logo=R&color=blue)](https://www.r-project.org/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/C%20%26%20C%2B%2B-c?logo=C%2B%2B&color=grey)](https://www.open-std.org/jtc1/sc22/wg14/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/Bash-bash?logo=linux&logoColor=green&color=grey)](https://www.gnu.org/software/bash/)&nbsp;
+### 📄 Markup & Documentation  
+<p align="center">
+  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+</p>
 
-</span>
+### 🛠 Tools & Technologies  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python%20venv-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-##### 📄 Markup Languages
-<span align="center">
+### 📚 Libraries & Frameworks  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-MPI-FF6600?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenMP-0277BD?style=for-the-badge&logo=c&logoColor=white">
+</p>
 
-[![Static Badge](https://img.shields.io/badge/LaTeX-latex?logo=LaTeX&logoColor=white&color=%23187b78)](https://www.latex-project.org/get/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/Markdown-markdown?logo=markdown&color=grey)](https://www.markdownguide.org/)&nbsp;
+---
 
-</span>
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlessioValentinis&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
 
-##### 🛠 Other tools
-<span align="center">
-  
-[![Static Badge](https://img.shields.io/badge/Git-git?logo=Git&color=white)](https://git-scm.com/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/Docker-Docker?logo=Docker&logoColor=white&color=%232496ED)](https://www.docker.com/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/Conda-Conda?logo=Anaconda&logoColor=white&color=%2344A833)](https://docs.conda.io/en/latest/) &nbsp;
-
-</span>
-
-##### Some libraries 
-<span align="center">
-
-[![Static Badge](https://img.shields.io/badge/Pandas-Pandas?logo=python&logoColor=white&labelColor=%2336474F&color=%231D1D1D)](https://pandas.pydata.org/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/numpy-numpy?logo=python&logoColor=white&labelColor=%2336474F&color=%231D1D1D)](https://numpy.org/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/matplotlib-matplotlib?logo=python&logoColor=white&labelColor=%2336474F&color=%231D1D1D)](https://matplotlib.org/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/scikit--learn-scikit--learn?logo=python&logoColor=white&labelColor=%2336474F&color=%231D1D1D)](https://scikit-learn.org/stable/index.html)&nbsp;
-[![Static Badge](https://img.shields.io/badge/PyTorch-PyTorch?logo=python&logoColor=white&labelColor=%2336474F&color=%231D1D1D)](https://pytorch.org/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/MPI-MPI?logo=C&logoColor=white&labelColor=%2336474F&color=%231D1D1D)](https://www.open-mpi.org/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/OpenMP-OpenMP?logo=C&logoColor=white&labelColor=%2336474F&color=%231D1D1D)](https://www.openmp.org/)&nbsp;
-
-</span>
+---
